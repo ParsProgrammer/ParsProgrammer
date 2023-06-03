@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<br/> 👋 I’m @ParsProgrammer
+<br/> 👋 Welcome to my page! I’m @ParsProgrammer
 <br/> 👀 I’m experienced in software development and AI engineering
 <br/> 🧠 I'm currently preparing a scientific paper in the field of XAI (Explainable AI)
 <br/> 💜 I'm passionate about applied science, start-ups, and e-commerce platforms
