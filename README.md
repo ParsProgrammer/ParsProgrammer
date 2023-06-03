@@ -6,7 +6,9 @@
 <br/> 💜 I'm passionate about applied science, start-ups, and e-commerce platforms
 <br/> 🧩 My favorite hobbies are going to the gym, playing vollyball, watching scientific shows and podcasts
 <br/> 🦸 My role model is Tom Bilyeu
+<br/>
 <h1>Technology Skills</h1>
+<br/>
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="65" height="65" alt="html5-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" alt="tailwindcss-atenadadkhah"/>
@@ -23,8 +25,9 @@
 
 </p>
 
-
+<br/>
 <h1>Contact</h1>
+<br/>
 <p>
     <a href="https://stackoverflow.com/users/7961337/pars-programmer">
         <img src="https://user-images.githubusercontent.com/91287064/208878662-a1aff4dd-d72e-44b3-bf0d-2d862a5f87f6.png" alt="stackoverflow-mobinshahidi" width="50" height="50">
