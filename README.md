@@ -8,15 +8,18 @@
 <br/> 🦸 My role model is Tom Bilyeu
 
 <p>
-
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="65" height="65" alt="html5-atenadadkhah"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" alt="tailwindcss-atenadadkhah"/>
+    <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/b57ed589-2215-412b-9eea-335a5c984578" width="65" height="65" alt="materialui-atenadadkhah"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="65" height="65" alt="css3-atenadadkhah"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="bootstrap-atenadadkhah"/>
+    <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/46ebbddc-eb10-4f90-92be-871980d4be3d" width="65" height="65" alt="git-atenadadkhah"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="mysql-atenadadkhah"/>
+    <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/1dc3ce50-9792-4004-9aeb-c637eb3cdfb3" width="65" height="65" alt="sqlite-atenadadkhah"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" alt="javascript-atenadadkhah"/>
+    <img src="https://user-images.githubusercontent.com/91287064/230383832-7f9d2484-4cbc-4015-96d7-06439e7de6fd.png" width="65" height="65" alt="jquery-atenadadkhah"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="linux-atenadadkhah"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
 
 </p>
 
