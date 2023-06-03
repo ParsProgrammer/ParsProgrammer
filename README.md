@@ -6,7 +6,7 @@
 <br/> 💜 I'm passionate about applied science, start-ups, and e-commerce platforms
 <br/> 🧩 My favorite hobbies are going to the gym, playing vollyball, watching scientific shows and podcasts
 <br/> 🦸 My role model is Tom Bilyeu
-
+<h1>Technology Skills</h1>
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="65" height="65" alt="html5-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" alt="tailwindcss-atenadadkhah"/>
