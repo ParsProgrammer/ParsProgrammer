@@ -6,6 +6,7 @@
 <br/> 💜 I'm passionate about applied science, start-ups, and e-commerce platforms
 <br/> 🧩 My favorite hobbies are going to the gym, playing vollyball, watching scientific shows and podcasts
 <br/> 🦸 My role model is Tom Bilyeu
+<br/> 🌞 Data is my religion
 <br/>
 <h1>Technology Skills</h1>
 <br/>
