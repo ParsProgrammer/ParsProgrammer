@@ -2,9 +2,9 @@
 
 <br/> 👋 Welcome to my page! I’m @ParsProgrammer
 <br/> 👀 I’m experienced in software development and AI engineering
-<br/> 🧠 I'm currently preparing a scientific paper in the field of XAI (Explainable AI)
+<br/> 🧠 I'm currently preparing a scientific paper in the field of Explainable Recommendation Systems
 <br/> 💜 I'm passionate about applied science, start-ups, and e-commerce platforms
-<br/> 🧩 My favorite hobbies are going to the gym, playing vollyball, watching scientific shows and podcasts
+<br/> 🧩 My favorite hobbies are going to the gym, playing volleyball, watching scientific shows and podcasts
 <br/> 🦸 My role model is Tom Bilyeu
 <br/> 🌞 Data is my religion
 <br/>
