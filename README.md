@@ -29,9 +29,9 @@ For my master's degree, I have decided to study AI because it dawned on me that 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="linux-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
     <img src="C_Sharp_wordmark.svg.png" width="65" height="65" alt="C#"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
+    <img src="Blazor.png" width="65" height="65" alt="Blazor"/>
+    <img src="NET_Core_Logo.svg.png" width="65" height="65" alt="NET"/>
+    <img src="dcfd9280-b114-11eb-80b3-c52243a29e37.png" width="65" height="65" alt="EF Core"/>
 
 </p>
 
