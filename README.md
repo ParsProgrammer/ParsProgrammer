@@ -28,7 +28,7 @@ For my master's degree, I have decided to study AI because it dawned on me that 
     <img src="https://user-images.githubusercontent.com/91287064/230383832-7f9d2484-4cbc-4015-96d7-06439e7de6fd.png" width="65" height="65" alt="jquery-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="linux-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
-    <img src="/C_Sharp_wordmark.png" width="65" height="65" alt="C#"/>
+    <img src="C_Sharp_wordmark.svg.png" width="65" height="65" alt="C#"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
