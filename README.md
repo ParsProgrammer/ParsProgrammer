@@ -15,15 +15,15 @@
 <p>A full-featured system for managing property listings, clients, and transactions.</p>
 
 <h3>Conference Halls Reservation Management System (<em>ReserveAfzar</em>)</h3>
-<p>A web application for managing hall bookings, availability, and customer interactions.</p>
+<p>A web application for automating hall reservations at Bu-Ali Sina University, enabling academic staff to book venues online for events and seminars.</p>
 
 <h3>Photocans</h3>
-<p>A platform for uploading, sharing, and organizing photographs with user-centric features.</p>
+<p> A web application for showcasing and selling a software product online, featuring a managerial admin dashboard and client support tools.</p>
 
 <h2>🔬 Research Projects</h2>
 
 <h3>Explainable Recommendation System</h3>
-<p>Focused on improving transparency and interpretability in collaborative filtering models.</p>
+<p>Focused on a multi-task framework that not only recommends items to users but also generates personalized explanations to enhance transparency, trust, and user satisfaction.</p>
 
 <h3>Data Collection from Reddit</h3>
 <p>Built scalable pipelines to extract and preprocess discussion data for NLP tasks.</p>
