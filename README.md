@@ -7,16 +7,32 @@
 <br/> 🌞 Data is my religion.
 <br/>
 
-<h1>Accomplishments</h1>
-<h2>Softwares Projects</h2>
+<h1>🏆 Accomplishments</h1>
+
+<h2>💻 Software Projects</h2>
+
 <h3>Real Estate Agency Management System</h3>
-<h3>Conference Halls Reservation Management System (ReserveAfzar)</h3>
+<p>A full-featured system for managing property listings, clients, and transactions.</p>
+
+<h3>Conference Halls Reservation Management System (<em>ReserveAfzar</em>)</h3>
+<p>A web application for managing hall bookings, availability, and customer interactions.</p>
+
 <h3>Photocans</h3>
-<h2>Research Project</h2>
+<p>A platform for uploading, sharing, and organizing photographs with user-centric features.</p>
+
+<h2>🔬 Research Projects</h2>
+
 <h3>Explainable Recommendation System</h3>
-<h3>Data Collection from Reddit </h3>
+<p>Focused on improving transparency and interpretability in collaborative filtering models.</p>
+
+<h3>Data Collection from Reddit</h3>
+<p>Built scalable pipelines to extract and preprocess discussion data for NLP tasks.</p>
+
 <h3>Exogenous Cues</h3>
-<h3>News-quality-aware recommender systems</h3>
+<p>Investigated external contextual signals and their impact on user engagement in recommendation systems.</p>
+
+<h3>News-Quality-Aware Recommender Systems</h3>
+<p>Designed models that balance personalization with news quality signals to improve content recommendations.</p>
 
 <h1>Technology Skills</h1>
 <br/>
