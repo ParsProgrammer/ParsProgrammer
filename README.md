@@ -23,7 +23,7 @@
 <h3>📡 Automated Reddit Scraper for Political Discourse</h3>
 <p>Developed APIs to collect and analyze political discussion data from a subreddit for research on online discourse.</p>
 
-<h2>Software Projects</h2>
+<h2>Software Development Projects</h2>
 
 <h3>📸 Photocans</h3>
 <p>A web application for showcasing and selling a software product online, featuring a managerial admin dashboard and client support tools.</p>
