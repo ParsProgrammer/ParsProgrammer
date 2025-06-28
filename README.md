@@ -6,6 +6,7 @@
 <br/> 🌞 Data is my religion.
 <br/>
 
+
 <h1>Featured Work</h1>
 
 <h2>Research Projects</h2>
@@ -74,9 +75,6 @@
   <img src="/microsoft-iis-logo-png_seeklogo-484624.png" width="40" alt="IIS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
 </p>
-
-
-
 
 <br/>
 <h1>Contact</h1>
