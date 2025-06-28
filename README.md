@@ -14,7 +14,7 @@
 <p>Explored and evaluated contextual quality-related variables (exogenous cues) to enhance the information quality of media recommendations.</p>
 
 <h3>🤝 Trustworthy Media Recommender</h3>
-<p>Integrating contextual quality signals (exogenous cues) into standard recommendation algorithms to develop an augmented model.</p>
+<p>Integrated contextual quality signals (exogenous cues) into standard recommendation algorithms to develop an augmented model.</p>
 
 <h3>💡 Explainable Recommendation System</h3>
 <p>Focused on a multi-task framework that not only recommends items to users but also generates personalized explanations to enhance transparency, trust, and user satisfaction.</p>
