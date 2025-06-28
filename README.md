@@ -7,7 +7,7 @@
 <br/> 🌞 Data is my religion.
 <br/>
 
-<h1>🏆 Accomplishments</h1>
+<h1>🏆 Featured Work</h1>
 
 <h2>💻 Software Projects</h2>
 
