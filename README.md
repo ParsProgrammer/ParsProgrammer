@@ -77,7 +77,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" alt=".NET Core" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="40" alt="Blazor" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/ML.NET_Logo.svg" width="40" alt="ML.NET" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/WPF_Logo.png" width="40" alt="WPF"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Mldotnet.svg" width="40" alt="WPF"/>
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
@@ -87,7 +87,6 @@
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" alt="Jupyter" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/e2/VSTS_Icon.png" width="40" alt="VSTF" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Microsoft_IIS_logo.png" width="40" alt="IIS" />
