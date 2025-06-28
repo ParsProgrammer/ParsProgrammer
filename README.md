@@ -53,56 +53,99 @@
     <img src="NET_Core_Logo.svg.png" width="65" height="65" alt="NET"/>
 
 </p>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="55" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="55" alt="Material UI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="55" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="55" alt="jQuery" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python" />
+<h2>💻 Tech Stack</h2>
 
-  <!-- Missing-icon replacements -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" alt="Blazor" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dotnet-original.svg" width="55" alt=".NET Core" />
-  <img src="IMAGE_URL_FOR_XAML" width="55" alt="XAML" />
-  
-  <img src="IMAGE_URL_FOR_GENSIM" width="55" alt="Gensim" />
-  <img src="IMAGE_URL_FOR_SCIKIT" width="55" alt="Scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" alt="OpenCV" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dotnet-original.svg" width="55" alt="ASP.NET Core" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="55" alt="Blazor" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dotnet-original.svg" width="55" alt="WCF" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dotnet-original.svg" width="55" alt="ML.NET" />
-  <img src="IMAGE_URL_FOR_WPF" width="55" alt="WPF" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55" alt="MS SQL Server" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="55" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" alt="Jupyter Notebook" />
-  <img src="IMAGE_URL_FOR_VSTF" width="55" alt="VSTF" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub" />
-  <img src="IMAGE_URL_FOR_IIS" width="55" alt="IIS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux" />
-</p>
+<style>
+  .tech-group {
+    margin-bottom: 30px;
+  }
+  .tech-group h3 {
+    margin-bottom: 12px;
+    font-weight: 600;
+    color: #0366d6;
+  }
+  .tech-icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  .tech-icons img {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+    transition: transform 0.2s;
+  }
+  .tech-icons img:hover {
+    transform: scale(1.2);
+  }
+</style>
 
+<div class="tech-group">
+  <h3>Programming Languages</h3>
+  <div class="tech-icons">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" title="C#"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" title="C"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" title="C++"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
+  </div>
+</div>
 
+<div class="tech-group">
+  <h3>UI Design Technologies</h3>
+  <div class="tech-icons">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/XAML_Icon.png" alt="XAML" title="XAML"/>
+  </div>
+</div>
+
+<div class="tech-group">
+  <h3>Python Libraries</h3>
+  <div class="tech-icons">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" title="TensorFlow"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" title="NumPy"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" title="Pandas"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Gensim_logo.svg" alt="Gensim" title="Gensim"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" title="Scikit-learn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" title="OpenCV"/>
+  </div>
+</div>
+
+<div class="tech-group">
+  <h3>.NET Frameworks</h3>
+  <div class="tech-icons">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET Core" title="ASP.NET Core"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Blazor.png" alt="Blazor" title="Blazor"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/WCF_Icon.png" alt="WCF" title="WCF"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Microsoft_logo.svg" alt="ML.NET" title="ML.NET"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/WPF_Icon.png" alt="WPF" title="WPF"/>
+  </div>
+</div>
+
+<div class="tech-group">
+  <h3>Database Management Systems</h3>
+  <div class="tech-icons">
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/87/Microsoft_SQL_Server_Logo.svg" alt="MS SQL Server" title="MS SQL Server"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" title="SQLite"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>
+  </div>
+</div>
+
+<div class="tech-group">
+  <h3>Other Tools</h3>
+  <div class="tech-icons">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" title="Visual Studio"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Team_Foundation_Server_Logo.svg" alt="VSTF" title="VSTF"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Internet_Information_Services_logo.svg" alt="IIS" title="IIS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
+  </div>
+</div>
 
 
 <br/>
