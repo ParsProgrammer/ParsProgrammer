@@ -7,9 +7,9 @@
 <br/> 🌞 Data is my religion.
 <br/>
 
-<h1>🏆 Featured Work</h1>
+<h1>Featured Work</h1>
 
-<h2>💻 Software Projects</h2>
+<h2>Software Projects</h2>
 
 <h3>📸 Photocans</h3>
 <p>A web application for showcasing and selling a software product online, featuring a managerial admin dashboard and client support tools.</p>
@@ -20,7 +20,7 @@
 <h3>🏠 Real Estate Agency Management System</h3>
 <p>A comprehensive system for managing property listings, clients, and transactions.</p>
 
-<h2>🔬 Research Projects</h2>
+<h2>Research Projects</h2>
 
 <h3>🔍 Exogenous Cues</h3>
 <p>Explored and evaluated contextual quality-related variables (exogenous cues) to enhance the information quality of media recommendations.</p>
