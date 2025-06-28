@@ -53,26 +53,108 @@
     <img src="NET_Core_Logo.svg.png" width="65" height="65" alt="NET"/>
 
 </p>
-## 💻 Tech Stack
+<style>
+  .tech-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    word-wrap: break-word;
+    margin-bottom: 1rem;
+  }
+  .tech-table th, .tech-table td {
+    border: 1px solid #ddd;
+    padding: 0.5rem;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .tech-table th {
+    background-color: #f3f4f6;
+  }
+  .tech-table img {
+    display: block;
+    margin: 0 auto 5px;
+    max-width: 40px;
+    height: auto;
+  }
 
-| Programming Languages               | UI Design Technologies                     | Python Libraries                           | .NET Frameworks                          |
-|-----------------------------------|--------------------------------------------|--------------------------------------------|-----------------------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40" height="40" alt="C#"/> C# | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/> HTML | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40" alt="TensorFlow"/> TensorFlow | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" height="40" alt="ASP.NET Core"/> ASP.NET Core |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40" alt="C"/> C | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/> CSS | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40" alt="NumPy"/> NumPy | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Blazor.png" width="40" height="40" alt="Blazor"/> Blazor |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" alt="C++"/> C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/> Bootstrap | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" height="40" alt="Pandas"/> Pandas | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/WCF_Icon.png" width="40" height="40" alt="WCF"/> WCF |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> Python | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/XAML_Icon.png" width="40" height="40" alt="XAML"/> XAML | <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Gensim_logo.svg" width="40" height="40" alt="Gensim"/> Gensim | <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Microsoft_logo.svg" width="40" height="40" alt="ML.NET"/> ML.NET |
-|                                   |                                            | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/> Scikit-learn | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/WPF_Icon.png" width="40" height="40" alt="WPF"/> WPF |
-|                                   |                                            | <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40" alt="OpenCV"/> OpenCV |                                         |
+  /* Responsive: Stack columns vertically on narrow screens */
+  @media (max-width: 600px) {
+    .tech-table thead {
+      display: none;
+    }
+    .tech-table, .tech-table tbody, .tech-table tr, .tech-table td {
+      display: block;
+      width: 100%;
+    }
+    .tech-table tr {
+      margin-bottom: 1rem;
+      border-bottom: 2px solid #ddd;
+    }
+    .tech-table td {
+      text-align: left;
+      padding-left: 50%;
+      position: relative;
+    }
+    .tech-table td::before {
+      position: absolute;
+      top: 0.5rem;
+      left: 0.75rem;
+      width: 45%;
+      white-space: nowrap;
+      font-weight: bold;
+    }
+    /* Labels for each column */
+    .tech-table td:nth-of-type(1)::before { content: "Programming Languages"; }
+    .tech-table td:nth-of-type(2)::before { content: "UI Design Technologies"; }
+    .tech-table td:nth-of-type(3)::before { content: "Python Libraries"; }
+    .tech-table td:nth-of-type(4)::before { content: ".NET Frameworks"; }
+  }
+</style>
 
-| Database Management Systems        | Other Tools                                |
-|-----------------------------------|--------------------------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/en/8/87/Microsoft_SQL_Server_Logo.svg" width="40" height="40" alt="MS SQL Server"/> MS SQL Server | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="40" height="40" alt="Visual Studio"/> Visual Studio |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="40" height="40" alt="SQLite"/> SQLite | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" alt="Jupyter Notebook"/> Jupyter Notebook |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> MySQL | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Team_Foundation_Server_Logo.svg" width="40" height="40" alt="VSTF"/> VSTF |
-|                                   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/> Git |
-|                                   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/> GitHub |
-|                                   | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Internet_Information_Services_logo.svg" width="40" height="40" alt="IIS"/> IIS |
-|                                   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/> Linux |
+<table class="tech-table">
+  <thead>
+    <tr>
+      <th>Programming Languages</th>
+      <th>UI Design Technologies</th>
+      <th>Python Libraries</th>
+      <th>.NET Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#"/><br>C#</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/><br>HTML</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow"/><br>TensorFlow</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET Core"/><br>ASP.NET Core</td>
+    </tr>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C"/><br>C</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/><br>CSS</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy"/><br>NumPy</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Blazor.png" alt="Blazor"/><br>Blazor</td>
+    </tr>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++"/><br>C++</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/><br>Bootstrap</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas"/><br>Pandas</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/WCF_Icon.png" alt="WCF"/><br>WCF</td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/><br>Python</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/XAML_Icon.png" alt="XAML"/><br>XAML</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Gensim_logo.svg" alt="Gensim"/><br>Gensim</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Microsoft_logo.svg" alt="ML.NET"/><br>ML.NET</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn"/><br>Scikit-learn</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/WPF_Icon.png" alt="WPF"/><br>WPF</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_sv
 
 <h1>Contact</h1>
 <br/>
