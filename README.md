@@ -35,24 +35,7 @@
 
 <h1>Technology Skills</h1>
 <br/>
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="65" height="65" alt="html5-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" alt="tailwindcss-atenadadkhah"/>
-    <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/b57ed589-2215-412b-9eea-335a5c984578" width="65" height="65" alt="materialui-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="65" height="65" alt="css3-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="bootstrap-atenadadkhah"/>
-    <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/46ebbddc-eb10-4f90-92be-871980d4be3d" width="65" height="65" alt="git-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="mysql-atenadadkhah"/>
-    <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/1dc3ce50-9792-4004-9aeb-c637eb3cdfb3" width="65" height="65" alt="sqlite-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" alt="javascript-atenadadkhah"/>
-    <img src="https://user-images.githubusercontent.com/91287064/230383832-7f9d2484-4cbc-4015-96d7-06439e7de6fd.png" width="65" height="65" alt="jquery-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="linux-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
-    <img src="C_Sharp_wordmark.svg.png" width="65" height="65" alt="C#"/>
-    <img src="Blazor.png" width="65" height="65" alt="Blazor"/>
-    <img src="NET_Core_Logo.svg.png" width="65" height="65" alt="NET"/>
 
-</p>
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
@@ -76,22 +59,22 @@
   <!-- .NET -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" alt=".NET Core" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="40" alt="Blazor" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/ML.NET_Logo.svg" width="40" alt="ML.NET" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Mldotnet.svg" width="40" alt="WPF"/>
+  <img src="/ml-net.png" width="40" alt="ML.NET" />
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" width="40" alt="MS SQL Server" />
+  <img src="/ms sql server.png" width="40" alt="MS SQL Server" />
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Microsoft_IIS_logo.png" width="40" alt="IIS" />
+  <img src="/microsoft-iis-logo-png_seeklogo-484624.png" width="40" alt="IIS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
 </p>
+
 
 
 
