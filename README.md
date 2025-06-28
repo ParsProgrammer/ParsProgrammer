@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my page!</h1>
 
-<br/> 👋 I’m Mobin.
-<br/> 👀 I’m experienced in software development and AI engineering.
+<br/> 👀 I’m Mobin, experienced in software development and AI engineering.
 <br/> 💜 I'm passionate about applied science, start-ups, and e-commerce platforms.
 <br/> 🧩 My favorite hobbies are going to the gym, playing volleyball, watching scientific shows, and podcasts.
 <br/> 🌞 Data is my religion.
