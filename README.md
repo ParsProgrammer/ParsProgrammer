@@ -25,8 +25,8 @@
 <h3>Explainable Recommendation System</h3>
 <p>Focused on a multi-task framework that not only recommends items to users but also generates personalized explanations to enhance transparency, trust, and user satisfaction.</p>
 
-<h3>Data Collection from Reddit</h3>
-<p>Built scalable pipelines to extract and preprocess discussion data for NLP tasks.</p>
+<h3>Automated Reddit Scraper for Political Discourse</h3>
+<p>Developed APIs to collect and analyze political discussion data from a subreddit for research on online discourse.</p>
 
 <h3>Exogenous Cues</h3>
 <p>Investigated external contextual signals and their impact on user engagement in recommendation systems.</p>
