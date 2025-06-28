@@ -29,10 +29,10 @@
 <p>Developed APIs to collect and analyze political discussion data from a subreddit for research on online discourse.</p>
 
 <h3>Exogenous Cues</h3>
-<p>Investigated external contextual signals and their impact on user engagement in recommendation systems.</p>
+<p>Explored and evaluated contextual quality-related variables (exogenous cues) to enhance the information quality of media recommendations.</p>
 
-<h3>News-Quality-Aware Recommender Systems</h3>
-<p>Designed models that balance personalization with news quality signals to improve content recommendations.</p>
+<h3>Trustworthy Media Recommender</h3>
+<p>Integrating contextual quality signals (exogenous cues) into standard recommendation algorithms to develop an augmented model.</p>
 
 <h1>Technology Skills</h1>
 <br/>
