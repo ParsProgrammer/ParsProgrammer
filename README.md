@@ -53,6 +53,7 @@
     <img src="NET_Core_Logo.svg.png" width="65" height="65" alt="NET"/>
 
 </p>
+
 <style>
   .tech-table {
     width: 100%;
@@ -154,8 +155,14 @@
     <tr>
       <td></td>
       <td></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_sv
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV"/><br>OpenCV</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
+
+<br/>
 <h1>Contact</h1>
 <br/>
 <p>
