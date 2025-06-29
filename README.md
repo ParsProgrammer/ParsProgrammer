@@ -89,7 +89,7 @@
     <a href="https://www.linkedin.com/in/mobin-shahidi/">
         <img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="linkedin-mobinshahidi" width="50" height="50">
     </a>
-    <a href="mailto:https://github.com/atenadadkhah">
+    <a href="mailto:m.mobinshahidi@gmail.com">
         <img src="https://user-images.githubusercontent.com/91287064/208878678-26652569-8d38-45c9-aa13-28a33a7fc967.png" alt="gmail-mobinshahidi" width="50" height="50">
     </a>
 </p>
