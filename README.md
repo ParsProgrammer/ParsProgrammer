@@ -61,22 +61,27 @@
 <br/>
 <p>
   <a href="https://www.linkedin.com/in/mobin-shahidi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mobin%20Shahidi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="margin-right:10px;" />
   </a>
   <a href="https://github.com/ParsProgrammer">
-    <img src="https://img.shields.io/badge/GitHub-ParsProgrammer-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" style="margin-right:10px;" />
   </a>
   <a href="https://stackoverflow.com/users/7961337/pars-programmer">
-    <img src="https://img.shields.io/badge/StackOverflow-ParsProgrammer-orange?style=for-the-badge&logo=stackoverflow" alt="StackOverflow" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverflow" width="40" style="margin-right:10px;" />
   </a>
   <a href="mailto:m.mobinshahidi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-m.mobinshahidi@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" style="margin-right:10px;" />
   </a>
   <a href="https://mobinshahidi.com">
-    <img src="https://img.shields.io/badge/Website-mobinshahidi.com-lightgrey?style=for-the-badge&logo=google-chrome" alt="Website" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Website" width="40" style="margin-right:10px;" />
   </a>
+  <a href="https://www.instagram.com/mobin__shd/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.youtube.com/@Mobin-Shahidi">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" 
+       alt="YouTube" width="40" style="margin-right:10px;" />  </a>
 </p>
-
 
 
 <!---
