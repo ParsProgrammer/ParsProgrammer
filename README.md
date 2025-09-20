@@ -61,28 +61,27 @@
 <br/>
 <p>
   <a href="https://www.linkedin.com/in/mobin-shahidi/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="margin-right:10px;" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ParsProgrammer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" style="margin-right:10px;" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/7961337/pars-programmer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverflow" width="40" style="margin-right:10px;" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverflow" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:m.mobinshahidi@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" style="margin-right:10px;" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mobinshahidi.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Website" width="40" style="margin-right:10px;" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Website" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mobin__shd/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" style="margin-right:10px;" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@Mobin-Shahidi">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" 
-       alt="YouTube" width="40" style="margin-right:10px;" />  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" alt="YouTube" width="40" />
+  </a>
 </p>
-
 
 <!---
 mobinpersi/mobinpersi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
