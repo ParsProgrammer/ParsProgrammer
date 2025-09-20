@@ -1,6 +1,5 @@
 
-# Welcome to My GitHub
-
+# Mobin Shahidi, M.Sc.
 👋 Hi, I’m **Mobin Shahidi** — a software developer and research assistant passionate about creating **AI-powered, user-friendly systems**. I hold a **B.Sc. in Software Engineering** and an **M.Sc. in Artificial Intelligence**. My work spans **developing ML models, recommendation engines, full-stack web applications, and conducting data-driven research**.  
 
 🔹 **Technical Expertise:** C#, Python, .NET Core, Blazor, SQL, TensorFlow  
