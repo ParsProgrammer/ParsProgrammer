@@ -9,29 +9,10 @@
 💜 Passionate about applied science, start-ups, and e-commerce platforms.  
 🧩 Hobbies: going to the gym, playing volleyball, and watching scientific shows and podcasts.  
 🌞 Data is my religion.  
-<br/>
-<h1>Contact</h1>
-<br/>
-<p>
-  <a href="https://www.linkedin.com/in/mobin-shahidi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mobin%20Shahidi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ParsProgrammer">
-    <img src="https://img.shields.io/badge/GitHub-ParsProgrammer-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://stackoverflow.com/users/7961337/pars-programmer">
-    <img src="https://img.shields.io/badge/StackOverflow-ParsProgrammer-orange?style=for-the-badge&logo=stackoverflow" alt="StackOverflow" />
-  </a>
-  <a href="mailto:m.mobinshahidi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-m.mobinshahidi@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://mobinshahidi.com">
-    <img src="https://img.shields.io/badge/Website-mobinshahidi.com-lightgrey?style=for-the-badge&logo=google-chrome" alt="Website" />
-  </a>
-</p>
 
 <h1>Tech Stack</h1>
 <br/>
+
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"><br>C#</td>
@@ -65,11 +46,40 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"><br>GitHub</td>
     <td align="center"><img src="/microsoft-iis-logo-png_seeklogo-484624.png" width="40"><br>IIS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"><br>Linux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"><br>Azure</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"><br>Next.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"><br>Docker</td>
   </tr>
 </table>
 
+<br/>
+<h1>Stats</h1>
+<br/>
 
 ![Mobin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParsProgrammer&show_icons=true&theme=radical)
+
+
+<br/>
+<h1>Contact</h1>
+<br/>
+<p>
+  <a href="https://www.linkedin.com/in/mobin-shahidi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mobin%20Shahidi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ParsProgrammer">
+    <img src="https://img.shields.io/badge/GitHub-ParsProgrammer-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://stackoverflow.com/users/7961337/pars-programmer">
+    <img src="https://img.shields.io/badge/StackOverflow-ParsProgrammer-orange?style=for-the-badge&logo=stackoverflow" alt="StackOverflow" />
+  </a>
+  <a href="mailto:m.mobinshahidi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-m.mobinshahidi@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://mobinshahidi.com">
+    <img src="https://img.shields.io/badge/Website-mobinshahidi.com-lightgrey?style=for-the-badge&logo=google-chrome" alt="Website" />
+  </a>
+</p>
+
 
 
 <!---
