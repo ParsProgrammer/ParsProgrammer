@@ -13,18 +13,21 @@
 <h1>Contact</h1>
 <br/>
 <p>
-    <a href="https://stackoverflow.com/users/7961337/pars-programmer">
-        <img src="https://user-images.githubusercontent.com/91287064/208878662-a1aff4dd-d72e-44b3-bf0d-2d862a5f87f6.png" alt="stackoverflow-mobinshahidi" width="50" height="50">
-    </a>
-    <a href="https://github.com/ParsProgrammer">
-        <img src="https://user-images.githubusercontent.com/91287064/208878669-0146cc1a-b0a6-4a6e-9f4b-082c37264309.png" alt="github-mobinshahidi" width="50" height="50">
-    </a>
-    <a href="https://www.linkedin.com/in/mobin-shahidi/">
-        <img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="linkedin-mobinshahidi" width="50" height="50">
-    </a>
-    <a href="mailto:m.mobinshahidi@gmail.com">
-        <img src="https://user-images.githubusercontent.com/91287064/208878678-26652569-8d38-45c9-aa13-28a33a7fc967.png" alt="gmail-mobinshahidi" width="50" height="50">
-    </a>
+  <a href="https://www.linkedin.com/in/mobin-shahidi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mobin%20Shahidi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ParsProgrammer">
+    <img src="https://img.shields.io/badge/GitHub-ParsProgrammer-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://stackoverflow.com/users/7961337/pars-programmer">
+    <img src="https://img.shields.io/badge/StackOverflow-ParsProgrammer-orange?style=for-the-badge&logo=stackoverflow" alt="StackOverflow" />
+  </a>
+  <a href="mailto:m.mobinshahidi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-m.mobinshahidi@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://mobinshahidi.com">
+    <img src="https://img.shields.io/badge/Website-mobinshahidi.com-lightgrey?style=for-the-badge&logo=google-chrome" alt="Website" />
+  </a>
 </p>
 
 <h1>Tech Stack</h1>
