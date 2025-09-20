@@ -9,10 +9,24 @@
 💜 Passionate about applied science, start-ups, and e-commerce platforms.  
 🧩 Hobbies: going to the gym, playing volleyball, and watching scientific shows and podcasts.  
 🌞 Data is my religion.  
-
-
-
 <br/>
+<h1>Contact</h1>
+<br/>
+<p>
+    <a href="https://stackoverflow.com/users/7961337/pars-programmer">
+        <img src="https://user-images.githubusercontent.com/91287064/208878662-a1aff4dd-d72e-44b3-bf0d-2d862a5f87f6.png" alt="stackoverflow-mobinshahidi" width="50" height="50">
+    </a>
+    <a href="https://github.com/ParsProgrammer">
+        <img src="https://user-images.githubusercontent.com/91287064/208878669-0146cc1a-b0a6-4a6e-9f4b-082c37264309.png" alt="github-mobinshahidi" width="50" height="50">
+    </a>
+    <a href="https://www.linkedin.com/in/mobin-shahidi/">
+        <img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="linkedin-mobinshahidi" width="50" height="50">
+    </a>
+    <a href="mailto:m.mobinshahidi@gmail.com">
+        <img src="https://user-images.githubusercontent.com/91287064/208878678-26652569-8d38-45c9-aa13-28a33a7fc967.png" alt="gmail-mobinshahidi" width="50" height="50">
+    </a>
+</p>
+
 <h1>Tech Stack</h1>
 <br/>
 
@@ -55,25 +69,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
 </p>
 
-<br/>
-<h1>Contact</h1>
-<br/>
-<p>
-    <a href="https://stackoverflow.com/users/7961337/pars-programmer">
-        <img src="https://user-images.githubusercontent.com/91287064/208878662-a1aff4dd-d72e-44b3-bf0d-2d862a5f87f6.png" alt="stackoverflow-mobinshahidi" width="50" height="50">
-    </a>
-    <a href="https://github.com/ParsProgrammer">
-        <img src="https://user-images.githubusercontent.com/91287064/208878669-0146cc1a-b0a6-4a6e-9f4b-082c37264309.png" alt="github-mobinshahidi" width="50" height="50">
-    </a>
-    <a href="https://www.linkedin.com/in/mobin-shahidi/">
-        <img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="linkedin-mobinshahidi" width="50" height="50">
-    </a>
-    <a href="mailto:m.mobinshahidi@gmail.com">
-        <img src="https://user-images.githubusercontent.com/91287064/208878678-26652569-8d38-45c9-aa13-28a33a7fc967.png" alt="gmail-mobinshahidi" width="50" height="50">
-    </a>
-</p>
+![Mobin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParsProgrammer&show_icons=true&theme=radical)
+
 
 <!---
 mobinpersi/mobinpersi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
