@@ -52,14 +52,12 @@
   </tr>
 </table>
 
-<br/>
 <h1>Stats</h1>
 <br/>
 
 ![Mobin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParsProgrammer&show_icons=true&theme=radical)
 
 
-<br/>
 <h1>Contact</h1>
 <br/>
 <p>
