@@ -1,13 +1,11 @@
 
 # Mobin Shahidi, M.Sc.
-👋 Hi, I’m **Mobin Shahidi** — a software developer and research assistant passionate about creating **AI-powered, user-friendly systems**. I hold a **B.Sc. in Software Engineering** and an **M.Sc. in Artificial Intelligence**. My work spans **developing ML models, recommendation engines, full-stack web applications, and conducting data-driven research**.  
+👋 Hi, I’m **Mobin Shahidi** a AI/software developer passionate about creating **AI-powered, user-friendly systems**. I hold a **B.Sc. in Software Engineering** and an **M.Sc. in Artificial Intelligence**. My work spans **developing ML models, recommendation engines, full-stack applications, and conducting data-driven research**.  
 
 🔹 **Technical Expertise:** C#, Python, .NET Core, Blazor, SQL, TensorFlow  
 🔹 **Research Interests:** Explainable AI, information quality, user trust in recommender systems, natural language processing  
 
 💜 Passionate about applied science, start-ups, and e-commerce platforms.  
-🧩 Hobbies: going to the gym, playing volleyball, and watching scientific shows and podcasts.  
-🌞 Data is my religion.  
 
 <h1>Tech Stack</h1>
 <br/>
