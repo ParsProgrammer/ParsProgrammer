@@ -1,12 +1,21 @@
 
 # Mobin Shahidi, M.Sc.
-👋 Hi, I’m an AI/software engineer passionate about creating **AI-powered, user-friendly systems**. I hold a **B.Sc. in Software Engineering** and an **M.Sc. in Artificial Intelligence**. My work spans **developing end-to-end ML models, recommendation engines, full-stack applications, and conducting data-driven research**.  
+👋 I'm an AI Engineer with 7+ years of engineering experience, including 3+ years building AI and machine learning systems and 4+ years in software development.
 
-🔹 **Technical Expertise:** Python, .NET Core                                                                                                                               
-🔹 **Research Interests:** Explainable AI, information quality, user trust in recommender systems, natural language processing  
+I enjoy designing and deploying end-to-end AI applications, from data collection and model development to cloud deployment and production operations. My work spans machine learning, recommender systems, NLP, backend engineering, and AI-powered products.
 
-💜 Passionate about applied science, start-ups, and e-commerce platforms.  
+### 🔭 Current Interests
+- Trustworthy AI
+- Recommender Systems
+- Information Quality & Misinformation
+- Natural Language Processing (NLP)
+- LLM Applications
+- MLOps & Production ML
 
+ ### 🚀 What I Care About
+I believe technology should help people make better decisions through high-quality information, transparent AI systems, and meaningful user experiences.
+
+Currently building AI-powered systems that combine research, engineering, and real-world impact.
 <h1>Tech Stack</h1>
 <br/>
 
