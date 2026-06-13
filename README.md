@@ -1,5 +1,5 @@
 
-# Mobin Shahidi, M.Sc.
+# Mobin Shahidi
 👋 I'm an AI Engineer with 7+ years of engineering experience, including 3+ years building AI and machine learning systems and 4+ years in software development.
 
 I enjoy designing and deploying end-to-end AI applications, from data collection and model development to cloud deployment and production operations. My work spans machine learning, recommender systems, NLP, backend engineering, and AI-powered products.
